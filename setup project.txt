@@ -1,0 +1,4 @@
+gradlew setupDecomWorkspace
+gradlew genIntellijRuns
+gradlew wrapper --gradle-version 3.0
+gradlew wrapper --gradle-version 3.0
